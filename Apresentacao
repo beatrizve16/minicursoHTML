@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stars Hollow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: #8a7561;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            color: #8a7561;
+        }
+
+        .profile {
+            text-align: center;
+        }
+
+        .personagem {
+            display: inline-block;
+            width: 30%;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease;
+        }
+
+        .personagem:hover {
+            background-color: #bfae9b;
+        }
+
+        .personagem img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        .personagem h3 {
+            margin-top: 10px;
+            color: #8a7561;
+        }
+
+        .personagem p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>༺☆༻Stars Hollow༺☆༻</h1>
+</header>
+
+<main>
+    <section id="lukes" class="profile">
+        <h2>ੈ✩‧₊˚Luke's Dinerੈ✩‧₊˚</h2>
+        <div class="personagem">
+            <img src="https://miro.medium.com/v2/resize:fit:800/1*h0Dlb_oUiGUrEX_PN2ye3A.png" alt="Luke">
+            <h3>⋆୨୧˚ </h3>
+            <h3>Luke Danes</h3>
+
+
+            <p>Proprietário do Luke's Diner, Luke é conhecido por seu temperamento rabugento, mas tem um coração de ouro. Ele é um dos pilares da comunidade de Stars Hollow.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://pbs.twimg.com/media/ElHfe1oWkAAPF38.jpg" alt="Jess">
+              <h3> ⋆୨୧˚</h3>
+            <h3>Jess Mariano</h3>
+            <p>Sobrinho de Luke, Jess é um jovem inteligente e sarcástico. Ele tem um interesse particular por literatura e música, mas também enfrenta alguns problemas de comportamento.</p>
+        </div>
+    </section>
+
+    <section id="chilton" class="profile">
+        <h2>ੈ✩‧₊˚Chiltonੈ✩‧₊˚</h2>
+        <div class="personagem">
+            <img src="https://media.vanityfair.com/photos/583ed7580fd158c6587ec2c0/master/pass/gilmore-girls-emily-kelly-bishop.jpg" alt="Emily">
+              <h3> ⋆୨୧˚</h3>
+            <h3>Emily Gilmore</h3>
+            <p>Emily é a matriarca da família Gilmore. Ela é sofisticada, exigente e extremamente preocupada com a reputação da família.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://i.pinimg.com/originals/f9/5e/46/f95e46bde37086203a986330558e36a2.jpg" alt="Richard">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Richard Gilmore</h3>
+            <p>Richard é o patriarca da família Gilmore. Ele é um homem de negócios bem-sucedido e tem um forte senso de ética e tradição.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://i.pinimg.com/736x/47/02/9c/47029c8996283c06aa5099a68593b29c.jpg" alt="Paris">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Paris Geller</h3>
+            <p>Paris é uma das alunas mais ambiciosas e competitivas de Chilton. Ela é inteligente, determinada e muitas vezes intimidadora.</p>
+        </div>
+    </section>
+
+    <section id="townsquare" class="profile">
+        <h2>ੈ✩‧₊˚Town Squareੈ✩‧₊˚</h2>
+        <div class="personagem">
+            <img src="https://miro.medium.com/v2/resize:fit:800/1*Y2S2ikXYd5PqcNBAOyoVuA.png" alt="Dean">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Dean Forester</h3>
+            <p>Dean é o primeiro namorado de Rory. Ele é gentil, trabalhador e muitas vezes é considerado o "namorado perfeito".</p>
+        </div>
+          
+          
+        <div class="personagem">
+            <img src="https://i.insider.com/6011b3a36dfbe10018e004c7?width=1136&format=jpeg" alt="Lane">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Lane Kim</h3>
+            <p>Lane é a melhor amiga de Rory. Ela é apaixonada por música e bateria, mas luta para conciliar suas paixões com as expectativas de sua mãe.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://preview.redd.it/r5ijqtpe92u71.jpg?width=540&format=pjpg&auto=webp&s=1d9818b76d9adc17d4d513707ada63005c2617db" alt="Dave">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Dave Rygalski</h3>
+            <p>Dave é um colega de banda de Lane e eventual interesse amoroso. Ele é inteligente, engraçado e apaixonado por música.</p>
+        </div>
+    </section>
+
+    <section id="dragonfly" class="profile">
+        <h2>ੈ✩‧₊˚Dragonfly Innੈ✩‧₊˚</h2>
+      
+        <div class="personagem">
+            <img src="https://i.pinimg.com/736x/48/c3/07/48c3073d58c6b342339fb529171b133f.jpg" alt="Lorelai">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Lorelai Gilmore</h3>
+            <p>Lorelai é a mãe de Rory e gerente do Dragonfly Inn. Ela é espirituosa, independente e tem um amor pela cultura pop e café.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://media.vanityfair.com/photos/583607e40fd158c6587ec1d9/1:1/w_4912,h_4912,c_limit/gilmore-girls-michel-yanic-truesdale.jpg" alt="Michel">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Michel Gerard</h3>
+            <p>Michel é o funcionário do hotel no Dragonfly Inn. Ele é conhecido por sua personalidade sarcástica e aversão ao trabalho.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://people.com/thmb/Lke2tQbHx5SOVvHll-VjN1IfGmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(793x422:795x424)/Melissa-McCarthy-060923-7e0dbf0c480d41399dc5e00b185f28b0.jpg" alt="Suki">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Suki St. James</h3>
+            <p>Suki é a chef do Dragonfly Inn. Ela é apaixonada por culinária e por cuidar do bem-estar dos hóspedes.</p>
+        </div>
+    </section>
+
+    <section id="yale" class="profile">
+        <h2>ੈ✩‧₊˚Yaleੈ✩‧₊˚</h2>
+        <div class="personagem">
+            <img src="https://www.thesun.co.uk/wp-content/uploads/2023/03/NINTCHDBPICT000805019663.jpg" alt="Rory">
+                            <h3> ⋆୨୧˚</h3>
+
+            <h3>Rory Gilmore</h3>
+            <p>Rory é a filha de Lorelai e uma estudante brilhante de Yale. Ela é ambiciosa, determinada e apaixonada por literatura.</p>
+        </div>
+          
+        <div class="personagem">
+            <img src="https://i.pinimg.com/736x/48/b2/e5/48b2e5789f0e3f4419a9eb190156b31b.jpg" alt="Logan">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Logan Huntzberger</h3>
+            <p>Logan é um rico estudante de Yale e eventual namorado de Rory. Ele é charmoso, aventureiro e muitas vezes encontra-se em conflito com as expectativas de sua família.</p>
+        </div>
+    </section>
+</main>
+
+<footer>
+
+</footer>
+
+</body>
+</html>
+
