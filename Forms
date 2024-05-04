@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f1ea; /* Nude */
+            color: #5c524b; /* Marrom */
+        }
+</style> 
+</head>
+<body>
+
+    <form action="#" method = "post "></form>
+    <fieldset> <legend> Pagina de Login </legend>
+    nome:<input type "text" value = "bia" readonlynome2=:<input type ="text" autofocus> <br> <br>
+    senha : <input type="password"> <br> <br>
+    email: <input type ="email"> <br> <br>
+    <input type ="submit" value ="botao" style="background-color: #a88f86;">
+    
+    <input type="reset" style="background-color: #a88f86;">
+    </fieldset>
+
+
+
+
+    <form action="">
+<fieldset>
+    <legend> Forms </legend>
+    <hr> <br>
+    <input type = "checkbox" > aceitar os termos 
+    <hr><br>
+    <input type = "radio" name="genero" value = "H" > masculino
+    <input type ="radio" name="genero" value = "F"> feminino
+    <hr> <br>
+    <input type="reset" style="background-color: #a88f86;">
+    <hr> <br>
+    <textarea name= "" id="" cols="30" rows="5"></textarea>
+    <hr> <br>
+
+    <select name ="nome" id="">
+        <option value="DF">Distrito Federal</option>
+        <option value="SP">Sao Paulo</option>
+        <option value="MG">Minas Gerais</option>
+        <option value="RJ">Rio de Janeiro</option>
+    </select>
+
+    <hr> <br>
+    Cor favorita: <input type="text" list="cores">
+    <datalist id="cores">
+        <option value=" azul "></option>
+        <option value=" vermelho "></option>
+        <option value=" verde "></option>
+    </datalist>
+    <input type="color">
+    <hr>
+    <hr>
+    <input type="number" min="0" max="100" step="25"> <hr> <br>
+    <input type="date"><hr> <br>
+    <input type="range" min="0" max="100"><hr> <br>
+    <input type="time"><hr> <br>
+    <input type="file"><hr><br>
+    <input type="tel"><hr><br>
+    <input type="url"><hr><br>
+   
+   
+
+</fieldset>
+
+
+
+
+    </form>
+    
+</body>
+</html>
