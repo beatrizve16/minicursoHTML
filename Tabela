@@ -1,0 +1,137 @@
+​​<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livros Lidos Este Ano</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f1ea; /* Nude */
+            color: #5c524b; /* Marrom */
+        }
+        header {
+            background-color: #bcaaa4; /* Rosa Terra */
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #8d6e63; 
+            color: #fff;
+            text-transform: uppercase;
+        }
+        tr:hover {
+            background-color: #ccd5ae;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        .˚✮˚.⋆Livros Lidos Este Ano ⋆.˚✮˚.
+    </header>
+    <table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Autor</th>
+                <th>NºPáginas</th>
+                <th>Estrelas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Gemina</td>
+                <td>Jay Kristoff and Amie Kaufman</td>
+                <td>608</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>Tom Lake</td>
+                <td>Ann Patchett</td>
+                <td>448</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>Yellowface</td>
+                <td>R.F. Kuang</td>
+                <td>120</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>Lady Tan's Circle of Women</td>
+                <td>Lisa See</td>
+                <td>320</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>Betting on You</td>
+                <td>Lynn Painter</td>
+                <td>266</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>Immortality: A Love Story</td>
+                <td>Dana Shwartz</td>
+                <td>432</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>Carols and Spies</td>
+                <td>Jennifer Kropf</td>
+                <td>352</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>The Boy You Always Wanted</td>
+                <td>Michelle Quach</td>
+                <td>300</td>
+                <td>★★★☆☆</td>
+            </tr>
+            <tr>
+                <td>A Beast as Dark as Night</td>
+                <td>Jennifer Kropf</td>
+                <td>80</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>A Crown as Sharp as Thorns</td>
+                <td>Jennifer Kropf</td>
+                <td>496</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>A Heart as Red as Paint</td>
+                <td>Jennifer Kropf</td>
+                <td>480</td>
+                <td>★★★★★</td>
+            </tr>
+            <tr>
+                <td>The Agathas</td>
+                <td>Kathleen Glasgow</td>
+                <td>448</td>
+                <td>★★★★★</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
