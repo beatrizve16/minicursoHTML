@@ -1,0 +1,67 @@
+/*.primary-header{
+	background-color: blue;
+}*/
+body{
+	background-color : #FAF8DA;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+}
+
+.primary-header{
+	text-align: center;
+}
+.main-heading{
+	color: #205D76;
+	font-size: 70px;
+	margin-right: 2px;
+}
+
+.town-preview{
+	width: 650px;
+}
+
+.store-section{
+	display: flex;
+	/*text-align: center;*/
+	margin: 50px auto;
+	width: 450px;
+}
+
+.store-details{
+	margin-left: 30px;
+}
+
+.bulding{
+	width: 200px;
+}
+
+.category-heading{
+	color: #205D76;
+	font-size: 30px; 
+}
+
+.store-list{
+	color: #FFC122 ;
+	/*font-size: 30px;*/
+	padding-left: 15px;
+	
+}
+.store-name{
+	margin: 10px;
+}
+
+.store-link{
+	
+	color: #EA6E2F ; 
+	font-size: 20px;
+}
+
+.primary-footer{
+	background-color: #FFC122; 
+	padding: 1px;
+	text-align: center;
+}
+.craido-com{
+	color: #FFFFFF;
+	font-size: 20px; 
+}
