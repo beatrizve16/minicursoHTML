@@ -1,0 +1,74 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<title>Cidade Do UNICEUB</title>
+		<link rel="stylesheet" type="text/css" href="uniceub.css">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans">
+		<meta charset="utf-8">
+
+	</head>
+	<body>
+		<header class="primary-header">
+
+
+			<!--a href="#"><img src="" class="portugues-brazil" align="left"></a-->
+
+
+			<h1 class="main-heading">Bem vindo na Cidade de CEUB</h1>
+			<!--h3>Bem vindo na Cidade de UniCEUB</h3>
+			<h6>Bem vindo na Cidade de UniCEUB</h6-->
+			<img class="town-preview" src="images/townheader.svg" alt="Foto de um predio">
+		</header>
+
+		<main>
+			<section class="store-section"> 
+				<img class="bulding" src="images/townsleep.svg" alt="foto de hotel">
+				<div class="store-details">
+					<h2 class="category-heading">Hotel</h2>
+					<ul class="store-list">
+						<li class="store-name">
+							<a class="store-link" href="https://www.guestreservations.com/windsor-brasilia-hotel/booking?gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc7JaY9tinPCrxjuxelzcNfXbA0ddWwiNv5eW3vC81sw3PnjMBWWzvIaAguoEALw_wcB">Windsor</a>
+						</li>
+						<li class="store-name">
+							<a class="store-link" href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiGvf7H88_9AhUURUgAHSeYBJcYABAAGgJjZQ&ae=2&ohost=www.google.com&cid=CAESbeD2OsGAGjvdVcWXqp-q44qhonYKCM1hXkk0zEQYKMbcF2sFKTb_BaVBM4PRzTNafTzKjhIYKZ_-95VHiISdVWpqP6aEr8HznRtJBB-l8TDg8sMNNOqqJQnzBlsEh1IAmvg55JvhPHOFqJf4rYo&sig=AOD64_1ol5KCx_NuLb3hooBUCu8ZqjiEQg&q&adurl&ved=2ahUKEwjw1_XH88_9AhWiJ7kGHfdWBd8Q0Qx6BAgIEAE&nis=2&ri=2">Cullinan Hplus</a>
+						</li>
+					</ul>
+				</div>
+			</section>
+			<section class="store-section">
+				<img class="bulding" src="images/townfood.svg" alt="foto de hotel">
+				<div class="store-details">
+					<h2 class="category-heading">Restaurante</h2>
+					<ul class="store-list">
+							<li class="store-name">
+							<a class="store-link" href="https://americancookiesbrasil.com.br">American Cookies</a>
+						</li>
+						<li class="store-name" >
+							<a class="store-link" href="https://sushigourmetdelivery.com.br/combinado">Sushi Gourmet</a>
+						</li>
+					</ul>
+				</div>
+			</section>
+			<section class="store-section">
+				<img class="bulding" src="images/townshop.svg" alt="foto de hotel">
+
+				<div class="store-details">
+					
+					<h2 class="category-heading">Loja</h2>
+					<ul class="store-list">
+						<li class="store-name">
+							<a class="store-link" href="https://www.adidas.com.br/dia_do_consumidor?cm_mmc=AdieSEM_Google-_-Trademark-adidas-General-B-Exact-_-Trademark-adidas-X-General-_-adidas-_-&-_-ds_kid=43700052820248500-_-&-_-ds_agid=58700005787050612-_-&-_-dv:eCom&cm_mmca1=BR&cm_mmc2=EXACT&gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc4vxw1vAlLg_7nak9WAmfAWKQ--60T2UfNm5EHPtgwH1SC1ZUCbeF8aAoO5EALw_wcB&gclsrc=aw.ds">Adidas</a>
+						</li>
+						<li class="store-name">
+							<a class="store-link" href="https://www.nike.com.br/?gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc5pXXLrW0HZbPOiIOwJ2xp9zlXb-GlsV1DGvC2c8S3w-hCNmwSSZMgaAgiVEALw_wcB">Nike</a>
+						</li>
+					</ul>
+				</div>
+			</section>
+		</main>
+
+		<footer class="primary-footer">
+			<p class="craido-com">Criado com entusiasmo por residentes atenciosos</p>
+		</footer>
+	</body>
+</html>
