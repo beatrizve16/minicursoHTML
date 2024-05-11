@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link type="text/css" rel="stylesheet" href="cidadeceub.css">
+</head>
+
+<body>
+    <header>
+        <h1 class="titulo-h1"> Bem vindo a cidade CEUB!</h1>
+        <img class="img-titulo" src="imagens/townheader.svg" alt="foto do header">
+    </header>
+
+    <main>
+        <section class="store-section"> 
+
+            <img src="imagens/townshop.svg" alt="foto da loja" width="300px">
+            <div>
+                <h2>Lojas</h2>
+                <ul>
+                    <li>
+                        <a href="https://www.kalunga.com.br/">Papelaria</a>
+                    </li>
+                    <li><a href="https://www.brasilcacau.com.br/">Brasil Cacau</a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="store-section"> 
+
+            <img src="imagens/townsleep.svg" alt="blocos do ceub" width="300px">
+            <div>
+                <h2>Blocos</h2>
+                <ul class="lista">
+                    <li><a href="https://g.co/kgs/baAbfQT">Bloco 1</a></li>
+                    <li><a href="https://g.co/kgs/2rXDmzE">Bloco 12</a></li>
+                </ul>
+            </div>
+        </section>
+
+			<section class="store-section"> 
+
+            <img src="imagens/townfood.svg" alt="restaurantes" width="300px">
+            <div>
+                <h2>Restaurantes</h2>
+                <ul>
+                    <li><a href="https://www.tripadvisor.com.br/Restaurant_Review-g303322-d12599829-Reviews-Fast_Grill-Brasilia_Federal_District.html">Fast Grill</a></li>
+                    <li><a href="https://thecoffee.jp/">The Coffee</a></li>
+                </ul>
+            </div>
+            
+        </section>
+
+    </main>
+
+    <footer class="rodape">
+        <p class="paragrafoRodape">criado para alunos do CEUB</p>
+        <br>
+    </footer>
+    
+</body>
+</html>
