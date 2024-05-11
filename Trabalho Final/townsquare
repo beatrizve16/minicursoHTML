@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stars Hollow - Town Square</title>
+</head>
+<body>
+
+<header>
+    <h1>༺☆༻Town Square༺☆༻</h1>
+</header>
+
+<main>
+    <section id="townsquare" class="profile">
+        <h2>ੈ✩‧₊˚Town Squareੈ✩‧₊˚</h2>
+        <!-- Conteúdo do Town Square aqui -->
+    </section>
+</main>
+
+<footer>
+</footer>
+
+</body>
+</html>
