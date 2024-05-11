@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stars Hollow - Chilton</title>
+</head>
+<body>
+
+<header>
+    <h1>༺☆༻Chilton༺☆༻</h1>
+</header>
+
+<main>
+    <section id="chilton" class="profile">
+        <h2>ੈ✩‧₊˚Chiltonੈ✩‧₊˚</h2>
+        <!-- Conteúdo do Chilton aqui -->
+    </section>
+</main>
+
+<footer>
+</footer>
+
+</body>
+</html>
