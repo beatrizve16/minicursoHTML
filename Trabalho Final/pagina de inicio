@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stars Hollow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-image: url('caminho-da-sua-imagem.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 300px; /* Altura do cabeçalho ajustável conforme necessário */
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .image-container img {
+            width: calc(20% - 10px); /* Para manter as imagens separadas */
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+
+        .image-container img:hover {
+            transform: scale(1.1); /* Efeito de escala ao passar o mouse */
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <!-- Foto do cabeçalho -->
+    <h1>༺☆༻Stars Hollow༺☆༻</h1>
+</header>
+
+<main>
+    <div class="image-container">
+        <!-- Imagem 1 -->
+        <a href="lukes.html"><img src="caminho-da-imagem-1.jpg" alt="Descrição da imagem 1"></a>
+        <!-- Imagem 2 -->
+        <a href="townsquare.html"><img src="caminho-da-imagem-2.jpg" alt="Descrição da imagem 2"></a>
+        <!-- Imagem 3 -->
+        <a href="chilton.html"><img src="caminho-da-imagem-3.jpg" alt="Descrição da imagem 3"></a>
+        <!-- Imagem 4 -->
+        <a href="yale.html"><img src="caminho-da-imagem-4.jpg" alt="Descrição da imagem 4"></a>
+        <!-- Imagem 5 -->
+        <a href="dragonfly.html"><img src="caminho-da-imagem-5.jpg" alt="Descrição da imagem 5"></a>
+    </div>
+</main>
+
+<footer>
+    <!-- Rodapé -->
+</footer>
+
+</body>
+</html>
