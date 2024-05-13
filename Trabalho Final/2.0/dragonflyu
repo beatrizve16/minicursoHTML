@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stars Hollow - Dragonfly Inn</title>
+    <style>
+           .profile {
+            text-align: center;
+        }
+
+        .personagem {
+            display: inline-block;
+            width: 30%;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease;
+        }
+
+        .personagem:hover {
+            background-color: #bfae9b;
+        }
+
+        .personagem img {
+            width: 80%;
+            border-radius: 10px;
+        }
+
+        .personagem h3 {
+            margin-top: 10px;
+            color: #8a7561;
+        }
+
+        .personagem p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>༺☆༻Dragonfly Inn༺☆༻</h1>
+</header>
+
+<main>
+    <section id="dragonfly" class="profile">
+        <h2>ੈ✩‧₊˚Dragonfly Innੈ✩‧₊˚</h2>
+        <div class="personagem">
+            <img src="https://i.pinimg.com/736x/48/c3/07/48c3073d58c6b342339fb529171b133f.jpg" alt="Lorelai">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Lorelai Gilmore</h3>
+            <p>Lorelai é a mãe de Rory e gerente do Dragonfly Inn. Ela é espirituosa, independente e tem um amor pela cultura pop e café.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://media.vanityfair.com/photos/583607e40fd158c6587ec1d9/1:1/w_4912,h_4912,c_limit/gilmore-girls-michel-yanic-truesdale.jpg" alt="Michel">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Michel Gerard</h3>
+            <p>Michel é o funcionário do hotel no Dragonfly Inn. Ele é conhecido por sua personalidade sarcástica e aversão ao trabalho.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://people.com/thmb/Lke2tQbHx5SOVvHll-VjN1IfGmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(793x422:795x424)/Melissa-McCarthy-060923-7e0dbf0c480d41399dc5e00b185f28b0.jpg" alt="Suki">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Suki St. James</h3>
+            <p>Suki é a chef do Dragonfly Inn. Ela é apaixonada por culinária e por cuidar do bem-estar dos hóspedes.</p>
+        </div>
+    </section>    </section>
+</main>
+
+<footer>
+</footer>
+
+</body>
+</html>
