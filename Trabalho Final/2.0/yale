@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stars Hollow - Yale</title>
+    <style>
+           .profile {
+            text-align: center;
+        }
+
+        .personagem {
+            display: inline-block;
+            width: 30%;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease;
+        }
+
+        .personagem:hover {
+            background-color: #bfae9b;
+        }
+
+        .personagem img {
+            width: 80%;
+            border-radius: 10px;
+        }
+
+        .personagem h3 {
+            margin-top: 10px;
+            color: #8a7561;
+        }
+
+        .personagem p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>༺☆༻Yale༺☆༻</h1>
+</header>
+
+<main>
+    <section id="yale" class="profile">
+        <h2>ੈ✩‧₊˚Yaleੈ✩‧₊˚</h2>
+        <div class="personagem">
+            <img src="https://www.thesun.co.uk/wp-content/uploads/2023/03/NINTCHDBPICT000805019663.jpg" alt="Rory">
+                            <h3> ⋆୨୧˚</h3>
+
+            <h3>Rory Gilmore</h3>
+            <p>Rory é a filha de Lorelai e uma estudante brilhante de Yale. Ela é ambiciosa, determinada e apaixonada por literatura.</p>
+        </div>
+          
+        <div class="personagem">
+            <img src="https://i.pinimg.com/736x/48/b2/e5/48b2e5789f0e3f4419a9eb190156b31b.jpg" alt="Logan">
+                            <h3> ⋆୨୧˚</h3>
+
+
+            <h3>Logan Huntzberger</h3>
+            <p>Logan é um rico estudante de Yale e eventual namorado de Rory. Ele é charmoso, aventureiro e muitas vezes encontra-se em conflito com as expectativas de sua família.</p>
+        </div>
+    </section>    </section>
+</main>
+
+<footer>
+</footer>
+
+</body>
+</html>
