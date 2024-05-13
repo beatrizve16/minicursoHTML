@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stars Hollow - Luke's Diner</title>
+    <style>
+           .profile {
+            text-align: center;
+        }
+
+        .personagem {
+            display: inline-block;
+            width: 30%;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease;
+        }
+
+        .personagem:hover {
+            background-color: #bfae9b;
+        }
+
+        .personagem img {
+            width: 80%;
+            border-radius: 10px;
+        }
+
+        .personagem h3 {
+            margin-top: 10px;
+            color: #8a7561;
+        }
+
+        .personagem p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>༺☆༻Luke's Diner༺☆༻</h1>
+</header>
+
+<main>
+    <section id="lukes" class="profile">
+        <h2>ੈ✩‧₊˚Luke's Dinerੈ✩‧₊˚</h2>
+        <div class="personagem">
+            <img src="https://miro.medium.com/v2/resize:fit:800/1*h0Dlb_oUiGUrEX_PN2ye3A.png" alt="Luke">
+            <h3>⋆୨୧˚ </h3>
+            <h3>Luke Danes</h3>
+            <p>Proprietário do Luke's Diner, Luke é conhecido por seu temperamento rabugento, mas tem um coração de ouro. Ele é um dos pilares da comunidade de Stars Hollow.</p>
+        </div>
+        <div class="personagem">
+            <img src="https://i.pinimg.com/originals/93/1d/69/931d697cac68b072d957f6c59e7662b7.jpg" alt="Jess">
+            <h3> ⋆୨୧˚</h3>
+            <h3>Jess Mariano</h3>
+            <p>Sobrinho de Luke, Jess é um jovem inteligente e sarcástico. Ele tem um interesse particular por literatura e música, mas também enfrenta alguns problemas de comportamento.</p>
+        </div>
+    </section>
+</main>
+
+<footer>
+</footer>
+
+</body>
+</html>
