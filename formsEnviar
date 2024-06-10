@@ -59,19 +59,27 @@
             justify-content: space-between;
         }
         .frame {
-            width: 30px; /* Tamanho reduzido */
-            height: 30px; /* Tamanho reduzido */
-            background-color: #bcaaa4; /* Rosa Terra */
+            width: 30px;
+            height: 30px; 
+            background-color: #bcaaa4; 
             border-radius: 50%;
             margin: 0 5px;
         }
         .cadastro-container {
-            width: 30%; /* Tamanho reduzido */
-            background-color: #bcaaa4; /* Rosa Terra */
+            width: 30%; 
+            background-color: #bcaaa4; 
             padding: 20px;
             border-radius: 10px;
-            margin: 40px; /* Margens maiores */
-            text-align: center; /* Texto centralizado */
+            margin: 40px; 
+            text-align: center;
+
+        }
+
+        input{
+            background-color: #f3ebe6;
+            border-color: #f3ebe6;
+            border-radius: 5px;
+            
         }
     </style>
 </head>
